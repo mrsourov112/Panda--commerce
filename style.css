@@ -1,0 +1,78 @@
+body{
+    font-family: 'Poppins';
+}
+h1{
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+h2{
+    color: #FF4891;
+}
+h3{
+    font-size: 25px;
+    font-weight: bold;
+}
+p{
+    font-size: 18px;
+}
+.header-area{
+    overflow: hidden;
+    font-weight: bold;
+}
+.sub-header-area{
+    overflow: hidden;
+}
+.carousel-inner{
+    background-color: #FEEAE9;
+    border-radius: 25px;
+}
+.carousel-inner img{
+    height: 100%;
+    width: auto;
+}
+.button-price{
+    border: 0;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 3px;
+    background-color: #FF4891;  
+}
+.a-Category{
+    background-image: linear-gradient(to right, rgb(240, 136, 32), #FFBE22);
+    
+}
+.b-Category{
+    background-image: linear-gradient(to bottom, #ff589b, #ff136f);
+    
+}
+.c-Category{
+    background-image: linear-gradient(to bottom, #7e59d4, #0a0ed6);
+    
+}
+.a-Category, .b-Category, .c-Category{
+    color: #fff;
+    padding: 10px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.shoes{
+    overflow: hidden;
+}
+.shoes .s1{
+    box-shadow: 10px 10px 20px gray;
+}
+.Bags .s1{
+    box-shadow: 10px 10px 20px gray;
+}
+.sub-footer-area input{
+    padding: 10px 60px;
+    border: none;
+    background-color: #fff;
+    border: 1px solid #CED4DA;
+
+}
+.mrx {
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
